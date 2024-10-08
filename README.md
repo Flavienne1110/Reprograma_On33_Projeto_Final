@@ -1,5 +1,5 @@
 # Reprograma_On33_Projeto_Final
-## Projeto: Estimativa dos Níveis de Obesidade
+## Projeto: Estimativa dos Níveis de Obesidade com base em hábitos alimentares e condição física em indivíduos de países da América Latina (Colômbia, Peru e México) em 2019
 
 ### Introdução: 
 * A obesidade é um problema de saúde pública global que afeta milhões de pessoas em todo o mundo. Estima-se que 1,9 bilhão de adultos com 18 anos ou mais estão com sobrepeso ou obesos em 2016, o que representa 39% da população adulta mundial. A obesidade está associada a um aumento do risco de doenças crônicas, como doenças cardiovasculares, diabetes tipo 2 e alguns tipos de câncer.
